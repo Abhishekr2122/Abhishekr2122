@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend development**
 
-- 💬 Ask me about ** Corejava ,  Html , Css , Javascript , React , Bootstrap , Taiwindcss **
+- 💬 Ask me about  Corejava ,  Html , Css , Javascript , React , Bootstrap , Taiwindcss and Supabase
 
 - 📫 How to reach me **abhishekrshinde21@gmail.com**
 
