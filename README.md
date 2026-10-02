@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend development**
 
-- 💬 Ask me about  Reactjs, Typescript, Javascript, Tailwindcss
+- 💬 Ask me about  Reactjs, Typescript, Javascript, Tailwindcss, Html
 
 - 📫 How to reach me **abhishekrshinde21@gmail.com**
 
